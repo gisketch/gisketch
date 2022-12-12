@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gisketch" target="blank"><img src="https://img.shields.io/twitter/follow/gisketch?logo=twitter&style=for-the-badge" alt="gisketch" /></a> </p>
 
-- 🔭 I’m currently working on [my thesis project!](https://github.com/gisketch/Conversational-AI-Assistant-GPT-3)
+- 🔭 I’m currently working on [my thesis project!](https://github.com/gisketch/natural-language-to-latex-using-GPT3-REACTJS)
 
 - 🌱 I’m currently learning **React.JS, React Native, JavaScript, Unity 3D, Blender, Python 3D**
 
