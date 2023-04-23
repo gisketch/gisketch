@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [my thesis project!](https://github.com/gisketch/ZELDA-math-parser)
 
-- 🌱 I’m currently learning **React.JS, React Native, JavaScript, Unity 3D, Blender, Python 3D**
+- 🌱 I’m currently learning **React.JS, React Native, JavaScript, Unity 3D, Blender, Python**
 
 - 👯 I’m looking to collaborate on **anything that might pique my interest!**
 
