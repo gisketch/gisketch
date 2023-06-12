@@ -3,7 +3,7 @@
 - Lead 2D Artist & Jr. Dev of [AoTTG 2](https://github.com/AoTTG-2)
 - Webdev
 - Zelda Fan ⚔
-- 
+
 ## Projects
 
 - **[Attack on Titan Tribute Game 2](https://github.com/AoTTG-2)** - Lead 2D Artist & Junior Dev
