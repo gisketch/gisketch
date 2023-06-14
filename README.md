@@ -1,6 +1,6 @@
 # Hi, I'm **Ghegi Jimenez** 👋
 
-Visit my [Portfolio Website!](https://gisketch.com)
+Visit my [Portfolio Website! 💼🎨](https://gisketch.com)
 
 - Lead 2D Artist & Jr. Dev of [AoTTG 2](https://github.com/AoTTG-2)
 - Webdev
