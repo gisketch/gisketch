@@ -15,11 +15,11 @@ Visit my [Portfolio Website! 💼🎨](https://gisketch.com)
 
 ### Side Projects
 
+- **[GameHub](https://gamehub.gisketch.com/)** - Game Library using ReactJS, TypeScript, and Chakra UI
 - **[Check CEP](https://check-cep-ece.netlify.app/)** - App to check CEP scores
 - **[Shou Mai](https://github.com/ChowFan-Devs/shou-mai-discord-bot)** - Fun Discord Bot for my friend group's discord server
 - **[Raspberry Pi - Bus Arrival Announcement System](https://github.com/gisketch/RPi-bus-announcing-system)**
 - **[Complete Uniform Detection using YOLOv8](https://github.com/gisketch/complete-uniform-detection-YOLOv8)**
-- **[GameHub](https://game-hub-amber-five.vercel.app/)** - Practice Website I made with React JS and TypeScript
 - ~~**[Aotskins Discord Bot](https://github.com/gisketch/aotskins-bot)** - AotSkins discord server leaderboards bot~~
 - ~~**[Discord Attendance Bot](https://github.com/gisketch/discord-attendance-bot)** - Served as an attendance checker for AoTTG 2's discord server~~
 
