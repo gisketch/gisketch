@@ -3,7 +3,7 @@
 Visit my [Portfolio Website! 💼🎨](https://gisketch.com)
 
 - Lead 2D Artist & Jr. Dev of [AoTTG 2](https://github.com/AoTTG-2)
-- Webdev
+- Software Engineer at [Lexagle](https://lexagle.com)
 - Zelda Fan ⚔
 
 ## Projects
