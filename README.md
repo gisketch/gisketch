@@ -13,8 +13,7 @@ Visit my [Portfolio Website! 💼🎨](https://gisketch.com)
 - **[COVID: Armageddon](https://github.com/gisketch/covid-armageddon)**  - 🏆 MCM E-Yes 2021 Game Dev Competition CHAMPION
 - **[ZELDA: Math Expression Parser](https://github.com/gisketch/ZELDA-cs50-final-project)** - 🏆 USM 8th In-house Review Best Research Paper in Applied Science
 - **[Who's that Pokemon](https://pokemon.gisketch.com)** - Pokemon Guessing Game
-- **[VR Breadboard Simulator (Multiplayer)](
-- **[Who's that Pokemon](https://pokemon.gisketch.com)** - Pokemon Guessing Game)** - Multiplayer VR Breadboard Simulator
+- **[VR Breadboard Simulator (Multiplayer)](https://github.com/gisketch/vr-breadboard-sim)** - Multiplayer VR Breadboard Simulator
 
 ### Side Projects
 
