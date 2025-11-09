@@ -2,8 +2,8 @@
 
 Visit my [Portfolio Website! 💼🎨](https://gisketch.com)
 
-- Lead 2D Artist & Game Dev of [AoTTG 2](https://github.com/AoTTG-2)
-- Developer of [Cobblemon](https://cobblemon.com)
+- [AoTTG 2](https://github.com/AoTTG-2) Lead 2D Artist, Manager & Developer
+- [Cobblemon](https://cobblemon.com) Developer
 - Software Engineer
 - Zelda Fan ⚔
 
